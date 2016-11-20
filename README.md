@@ -1,5 +1,5 @@
-# CompBioMLDatasets
-Curated List of Comp Bio Datasets Suitable for Machine Learning
+# CompBioDatasetsForML
+A Curated List of Computational Biology Datasets Suitable for Machine Learning. This is an incomplete list, please submit a pull request for new datasets.
 
 ## Sequencing
 |Name | Description | Link | Comments |
