@@ -1,5 +1,5 @@
 # CompBioDatasetsForML
-A Curated List of Computational Biology Datasets Suitable for Machine Learning. This is an incomplete list, please submit a pull request for new datasets.
+A curated list of Computational Biology datasets suitable for machine learning. This list is a work in progress, please submit a pull request for new datasets.
 
 ## Sequencing
 |Name | Description | Link | Comments |
@@ -16,11 +16,19 @@ A Curated List of Computational Biology Datasets Suitable for Machine Learning. 
 |PharmacoGenomics DB	|	| https://www.pharmgkb.org/		| |
 
 ## Regulatory Networks
-TRRUST
+|Name | Description | Link | Comments |
+|:-:|---|---|---|
+|TRRUST| manually curated database of human transcriptional regulatory network | http://www.grnpedia.org/trrust/ | |
+|Yeast Network| 23-million yeast 2-hybrid experiments to investigate genetic interactions | http://science.sciencemag.org/content/353/6306/aaf1420/tab-pdf | |
+|Perturb-Seq| Integrated model of perturbations, single cell phenotypes, and epistatic interactions | http://www.sciencedirect.com/science/article/pii/S0092867416316105 | |
 
 ## Images
-
+|Name | Description | Link | Comments |
+|:-:|---|---|---|
+|Mammogram Dataset|
 
 ## Electronic Medical Records
-MIMIC
-PhysioNet
+|Name | Description | Link | Comments |
+|:-:|---|---|---|
+|MIMIC|
+|PhysioNet|
