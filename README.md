@@ -4,7 +4,7 @@ A curated list of Computational Biology datasets suitable for machine learning. 
 ## Sequencing
 |Name | Description | Link | Comments |
 |:-:|---|---|---|
-|The Cancer Genome Atlas|   |   |   |
+|The Cancer Genome Atlas| Variety of Cancer Data, most typles have 100-1000 samples  | https://cancergenome.nih.gov/  |   |
 |NIH GDC|   |   |   |
 |   |   |   |   |
 
@@ -21,14 +21,18 @@ A curated list of Computational Biology datasets suitable for machine learning. 
 |TRRUST| manually curated database of human transcriptional regulatory network | http://www.grnpedia.org/trrust/ | |
 |Yeast Network| 23-million yeast 2-hybrid experiments to investigate genetic interactions | http://science.sciencemag.org/content/353/6306/aaf1420/tab-pdf | |
 |Perturb-Seq| Integrated model of perturbations, single cell phenotypes, and epistatic interactions | http://www.sciencedirect.com/science/article/pii/S0092867416316105 | |
+|KEGG Metabolic Regulatory Network (Undirected) | 65554 instances, 29 attributes each | https://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Reaction+Network+%28Undirected%29 | |
+| KEGG Metabolic Regulatory Network (Directed) |53414 instance, 24 attributes each | https://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Relation+Network+%28Directed%29 | |
 
 ## Images
 |Name | Description | Link | Comments |
 |:-:|---|---|---|
+|Multiple Myeloma DREAM Challenge| Challenge to identify Multiple Myeloma Patients | https://www.synapse.org/#!Synapse:syn6187098/wiki/401884 | |
 |Mammogram Dataset|
 
 ## Electronic Medical Records
 |Name | Description | Link | Comments |
 |:-:|---|---|---|
-|MIMIC|
-|PhysioNet|
+|MIMIC| 59,000 EHRs | https://mimic.physionet.org/ | |
+|UCI Diabetes| 130 US hospital data for 1999-2008| https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008| |
+|PhysioNet| | https://www.physionet.org/physiobank/database/ | |
