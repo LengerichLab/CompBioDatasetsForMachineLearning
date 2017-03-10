@@ -28,7 +28,8 @@ A curated list of Computational Biology datasets suitable for machine learning. 
 |Name | Description | Link | Comments |
 |:-:|---|---|---|
 |Multiple Myeloma DREAM Challenge| Challenge to identify Multiple Myeloma Patients | https://www.synapse.org/#!Synapse:syn6187098/wiki/401884 | |
-|Mammogram Dataset|
+|Breast Cancer Wisconsin (Diagnostic) Data Set| Predict whether the cancer is benign or malignant | https://www.kaggle.com/uciml/breast-cancer-wisconsin-data | |
+|DDSM|Mammogram Database| http://marathon.csee.usf.edu/Mammography/Database.html | |
 
 ## Electronic Medical Records
 |Name | Description | Link | Comments |
