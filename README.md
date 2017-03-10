@@ -30,6 +30,7 @@ A curated list of Computational Biology datasets suitable for machine learning. 
 |Multiple Myeloma DREAM Challenge| Challenge to identify Multiple Myeloma Patients | https://www.synapse.org/#!Synapse:syn6187098/wiki/401884 | |
 |Breast Cancer Wisconsin (Diagnostic) Data Set| Predict whether the cancer is benign or malignant | https://www.kaggle.com/uciml/breast-cancer-wisconsin-data | |
 |DDSM|Mammogram Database| http://marathon.csee.usf.edu/Mammography/Database.html | |
+|Kaggle Soft Tissue Sarcomas| Preprocessed subset of the TCIA study "Soft Tissue Sarcoma", segmentation task | https://www.kaggle.com/4quant/soft-tissue-sarcoma | |
 
 ## Electronic Medical Records
 |Name | Description | Link | Comments |
