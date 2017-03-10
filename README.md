@@ -1,5 +1,6 @@
-# CompBioDatasetsForML
-A curated list of Computational Biology datasets suitable for machine learning. This list is a work in progress, please submit a pull request for new datasets.
+# Computational Biology Datasets Suitable For Machine Learning
+This is a curated list of computational biology datasets that have been pre-processed for machine learning.
+This list is a work in progress, please submit a pull request for any dataset you would like to advertise!
 
 ## Sequencing
 |Name | Description | Link | Comments |
