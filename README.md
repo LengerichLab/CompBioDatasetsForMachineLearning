@@ -42,3 +42,8 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |UCI Diabetes| 130 US hospital data for 1999-2008| https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008| |
 |i2b2 | Clinical notes only, designed for NLP tasks | https://www.i2b2.org/NLP/DataSets/Main.php | |
 |PhysioNet| | https://www.physionet.org/physiobank/database/ | |
+
+## Protein-Protein Interactions
+|Name | Description | Link | Comments |
+|:-:|---|---|---|
+|HINT| HINT (High-quality INTeractomes) is a curated compilation of high-quality protein-protein interactions from 8 interactome resources | http://hint.yulab.org/ | |
