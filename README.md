@@ -6,7 +6,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |Name | Description | Link | Comments |
 |:-:|---|---|---|
 |The Cancer Genome Atlas| Variety of Cancer Data, most typles have 100-1000 samples  | https://cancergenome.nih.gov/  |   |
-|NIH GDC|   |   |   |
+|NIH GDC| Cancer, many types of genomic data  | https://gdc-portal.nci.nih.gov/  |   |
 |UK Biobank   |   | http://www.ukbiobank.ac.uk/about-biobank-uk/  |   |
 |European Genome-Phenome Archive| | https://www.ebi.ac.uk/ega/datasets | |
 
