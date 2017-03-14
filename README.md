@@ -47,3 +47,8 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |Name | Description | Link | Comments |
 |:-:|---|---|---|
 |HINT| HINT (High-quality INTeractomes) is a curated compilation of high-quality protein-protein interactions from 8 interactome resources | http://hint.yulab.org/ | |
+
+## Longitudinal Studies
+|Name | Description | Link | Comments |
+|:-:|---|---|---|
+|National Population Health Survey| Longitudinal Survey that collects health information via surveys every two years. | http://www.statcan.gc.ca/eng/survey/household/3225 | |
