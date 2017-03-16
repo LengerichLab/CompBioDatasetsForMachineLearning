@@ -41,19 +41,19 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[ENGIMA Cerebellum](https://my.vanderbilt.edu/enigmacerebellum/)| Goal: Examine the relationships between regional atrophy and motor and cognitive dysfunction | |
 
 ## Electronic Medical Records
-|Name | Description | Link | Comments |
-|:-:|---|---|---|
-|MIMIC| 59,000 EHRs | https://mimic.physionet.org/ | |
-|UCI Diabetes| 130 US hospital data for 1999-2008| https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008| |
-|i2b2 | Clinical notes only, designed for NLP tasks | https://www.i2b2.org/NLP/DataSets/Main.php | |
-|PhysioNet| | https://www.physionet.org/physiobank/database/ | |
+|Name | Description | Comments |
+|:-:|---|---|
+|[MIMIC](https://mimic.physionet.org/)| 59,000 EHRs |  |
+|[UCI Diabetes](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008)| 130 US hospital data for 1999-2008| |
+|[i2b2](https://www.i2b2.org/NLP/DataSets/Main.php) | Clinical notes only, designed for NLP tasks | |
+|[PhysioNet](https://www.physionet.org/physiobank/database/) |  | |
 
 ## Protein-Protein Interactions
-|Name | Description | Link | Comments |
-|:-:|---|---|---|
-|HINT| HINT (High-quality INTeractomes) is a curated compilation of high-quality protein-protein interactions from 8 interactome resources | http://hint.yulab.org/ | |
+|Name | Description | Comments |
+|:-:|---|---|
+|[HINT (High-quality INTeractomes)](http://hint.yulab.org/) |  curated compilation of high-quality protein-protein interactions from 8 interactome resources | |
 
 ## Longitudinal Studies
-|Name | Description | Link | Comments |
-|:-:|---|---|---|
-|National Population Health Survey| Longitudinal Survey that collects health information via surveys every two years. | http://www.statcan.gc.ca/eng/survey/household/3225 | |
+|Name | Description | Comments |
+|:-:|---|---|
+|[National Population Health Survey](http://www.statcan.gc.ca/eng/survey/household/3225)| Longitudinal Survey that collects health information via surveys every two years. | |
