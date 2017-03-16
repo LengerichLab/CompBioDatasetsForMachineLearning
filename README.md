@@ -19,26 +19,26 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[PharmacoGenomics DB](https://www.pharmgkb.org/)	|	| |
 
 ## Regulatory Networks
-|Name | Description | Link | Comments |
-|:-:|---|---|---|
-|TRRUST| manually curated database of human transcriptional regulatory network | http://www.grnpedia.org/trrust/ | |
-|Yeast Network| 23-million yeast 2-hybrid experiments to investigate genetic interactions | http://science.sciencemag.org/content/353/6306/aaf1420/tab-pdf | |
-|Perturb-Seq| Integrated model of perturbations, single cell phenotypes, and epistatic interactions | http://www.sciencedirect.com/science/article/pii/S0092867416316105 | |
-|KEGG Metabolic Regulatory Network (Undirected) | 65554 instances, 29 attributes each | https://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Reaction+Network+%28Undirected%29 | |
-| KEGG Metabolic Regulatory Network (Directed) |53414 instance, 24 attributes each | https://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Relation+Network+%28Directed%29 | |
+|Name | Description | Comments |
+|:-:|---|---|
+|[TRRUST](http://www.grnpedia.org/trrust/)| manually curated database of human transcriptional regulatory network |  |
+|[Yeast Network](http://science.sciencemag.org/content/353/6306/aaf1420/tab-pdf)| 23-million yeast 2-hybrid experiments to investigate genetic interactions |  |
+|[Perturb-Seq](http://www.sciencedirect.com/science/article/pii/S0092867416316105)| Integrated model of perturbations, single cell phenotypes, and epistatic interactions |  |
+|[KEGG Metabolic Regulatory Network (Undirected)](https://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Reaction+Network+%28Undirected%29) | 65554 instances, 29 attributes each |  |
+|[KEGG Metabolic Regulatory Network (Directed)](https://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Relation+Network+%28Directed%29) |53414 instance, 24 attributes each |  |
 
 ## Images
-|Name | Description | Link | Comments |
-|:-:|---|---|---|
-|Multiple Myeloma DREAM Challenge| Challenge to identify Multiple Myeloma Patients | https://www.synapse.org/#!Synapse:syn6187098/wiki/401884 | |
-|Breast Cancer Wisconsin (Diagnostic) Data Set| Predict whether the cancer is benign or malignant | https://www.kaggle.com/uciml/breast-cancer-wisconsin-data | |
-|DDSM|Mammogram Database| http://marathon.csee.usf.edu/Mammography/Database.html | |
-|Kaggle Soft Tissue Sarcomas| Preprocessed subset of the TCIA study "Soft Tissue Sarcoma", segmentation task | https://www.kaggle.com/4quant/soft-tissue-sarcoma | |
+|Name | Description | Comments |
+|:-:|---|---|
+|[Multiple Myeloma DREAM Challenge](https://www.synapse.org/#!Synapse:syn6187098/wiki/401884)| Challenge to identify Multiple Myeloma Patients |  |
+|[Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)| Predict whether the cancer is benign or malignant | |
+|[DDSM](http://marathon.csee.usf.edu/Mammography/Database.html)|Mammogram Database | |
+|[Kaggle Soft Tissue Sarcomas](https://www.kaggle.com/4quant/soft-tissue-sarcoma)| Preprocessed subset of the TCIA study "Soft Tissue Sarcoma" | segmentation task |
 
 ## fMRI
-|Name | Description | Link | Comments |
-|:-:|---|---|---|
-|ENGIMA Cerebellum| Goal: Examine the relationships between regional atrophy and motor and cognitive dysfunction | https://my.vanderbilt.edu/enigmacerebellum/ | |
+|Name | Description | Comments |
+|:-:|---|---|
+|[ENGIMA Cerebellum](https://my.vanderbilt.edu/enigmacerebellum/)| Goal: Examine the relationships between regional atrophy and motor and cognitive dysfunction | |
 
 ## Electronic Medical Records
 |Name | Description | Link | Comments |
