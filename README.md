@@ -3,12 +3,12 @@ This is a curated list of computational biology datasets that have been pre-proc
 This list is a work in progress, please submit a pull request for any dataset you would like to advertise!
 
 ## Genotyping
-|Name | Description | Link | Comments |
-|:-:|---|---|---|
-|The Cancer Genome Atlas| Variety of Cancer Data, most typles have 100-1000 samples  | https://cancergenome.nih.gov/  |   |
-|NIH GDC| Cancer, many types of genomic data  | https://gdc-portal.nci.nih.gov/  |   |
-|UK Biobank   |   | http://www.ukbiobank.ac.uk/about-biobank-uk/  |   |
-|European Genome-Phenome Archive| | https://www.ebi.ac.uk/ega/datasets | |
+|Name | Description | Comments |
+|:-:|---|---|
+|[The Cancer Genome Atlas](https://cancergenome.nih.gov/)| Variety of Cancer Data  | most cancer types have 100-1000 samples  |
+|[NIH GDC](https://gdc-portal.nci.nih.gov/)| Cancer, many types of genomic data  |   |
+|[UK Biobank](http://www.ukbiobank.ac.uk/about-biobank-uk/) |   |   |
+|[European Genome-Phenome Archive](https://www.ebi.ac.uk/ega/datasets)| |  |
 
 ## Gene/Protein Expression
 |Name | Description | Link | Comments |
