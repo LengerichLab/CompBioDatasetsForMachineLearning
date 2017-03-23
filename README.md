@@ -35,6 +35,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[DDSM](http://marathon.csee.usf.edu/Mammography/Database.html)|Mammogram Database | |
 |[Kaggle Soft Tissue Sarcomas](https://www.kaggle.com/4quant/soft-tissue-sarcoma)| Preprocessed subset of the TCIA study "Soft Tissue Sarcoma" | segmentation task |
 |[Kaggle Cervical Cancer Screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)| Classify cervix type from images| |
+|[CMELYON17](https://camelyon17.grand-challenge.org/)| Pathology challenge - automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections| |
 
 ## fMRI
 |Name | Description | Comments |
