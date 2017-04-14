@@ -11,6 +11,11 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[European Genome-Phenome Archive](https://www.ebi.ac.uk/ega/datasets)| |  |
 |[METABRIC](http://www.cbioportal.org/study?id=brca_metabric#summary)| The genomic profiles (somatic mutations [targeted sequencing], copy number alterations, and gene expression) of 2509 breast cancers.| |
 
+## Promoter-Enhancer Pairs
+|Name | Description | Comments |
+|:-:|---|---|
+|[TargetFinder](https://github.com/shwhalen/targetfinder)|~100,000 DNA-DNA interaction pairs | |
+
 ## Gene/Protein Expression
 |Name | Description | Comments |
 |:-:|---|---|
