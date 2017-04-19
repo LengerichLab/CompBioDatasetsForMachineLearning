@@ -10,6 +10,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[UK Biobank](http://www.ukbiobank.ac.uk/about-biobank-uk/) |   |   |
 |[European Genome-Phenome Archive](https://www.ebi.ac.uk/ega/datasets)| |  |
 |[METABRIC](http://www.cbioportal.org/study?id=brca_metabric#summary)| The genomic profiles (somatic mutations [targeted sequencing], copy number alterations, and gene expression) of 2509 breast cancers.| |
+|[HapMap](https://www.genome.gov/hapmap/)| | |
 
 ## Promoter-Enhancer Pairs
 |Name | Description | Comments |
