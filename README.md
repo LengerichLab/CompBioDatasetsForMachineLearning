@@ -11,6 +11,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[European Genome-Phenome Archive](https://www.ebi.ac.uk/ega/datasets)| |  |
 |[METABRIC](http://www.cbioportal.org/study?id=brca_metabric#summary)| The genomic profiles (somatic mutations [targeted sequencing], copy number alterations, and gene expression) of 2509 breast cancers.| |
 |[HapMap](https://www.genome.gov/hapmap/)| | |
+|[23andMe](http://www.biorxiv.org/content/early/2017/04/19/127241)| 2280 Public Domain Curated Genotypes | |
 
 ## Promoter-Enhancer Pairs
 |Name | Description | Comments |
