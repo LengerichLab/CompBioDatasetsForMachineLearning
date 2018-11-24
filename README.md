@@ -58,6 +58,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[UCI Diabetes](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008)| 130 US hospital data for 1999-2008| |
 |[i2b2](https://www.i2b2.org/NLP/DataSets/Main.php) | Clinical notes only, designed for NLP tasks | |
 |[PhysioNet](https://www.physionet.org/physiobank/database/) |  | |
+|[Caufield et al.](https://www.nature.com/articles/sdata2018258) | 3,100 curated clinical case reports spanning 15 disease groups and more than 750 reports of rare diseases | |
 
 ## Protein-Protein Interactions
 |Name | Description | Comments |
