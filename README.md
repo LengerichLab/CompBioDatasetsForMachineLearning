@@ -21,10 +21,19 @@ This list is a work in progress, please submit a pull request for any dataset yo
 ## Gene/Protein Expression
 |Name | Description | Comments |
 |:-:|---|---|
+|[GEO](http://www.ncbi.nlm.nih.gov/geo/) | Main place for NCBI data |  |
+|[ENCODE](http://www.encodeproject.org/) | Variety of assays to identify functional elements | |
+|[ArrayExpress](http://www.ebi.ac.uk/arrayexpress/) | DNA sequencing, gene/protein expression, epigenetics | |
 |[Cytometry	Continuous](http://science.sciencemag.org/content/308/5721/523) | flow cytometry data of 11 proteins+phospholipids, Discretized and cleaned data available offline	| Classical benchmark dataset for learning graphical models; contains known errors |
 |[Transcription factor binding](http://www.pnas.org/content/106/51/21521.abstract?tab=ds) |	ChIP-Seq data on 12 TFs |	 |
 |[GTEx](http://www.gtexportal.org/home/) | Landmark study for EQTL analysis | |
 |[PharmacoGenomics DB](https://www.pharmgkb.org/)	|	| |
+|[ProteomeXChange](http://www.proteomexchange.org/)| | |
+
+## Single-cell Data
+|Name | Description | Comments |
+|:-:|---|---|
+|[Single-cell expression atlas](https://www.ebi.ac.uk/gxa/sc/) | | |
 
 ## Regulatory Networks
 |Name | Description | Comments |
