@@ -70,6 +70,13 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[Metadata Acquired from Clinical Case Reports (MACCRs)](https://www.nature.com/articles/sdata2018258) | 3,100 curated clinical case reports spanning 15 disease groups and more than 750 reports of rare diseases | |
 |[eICU](https://www.nature.com/articles/sdata2018178)| 200k EHRs | |
 
+## Radiographs
+|Name | Description | Comments |
+|:-:|---|---|
+|[CheXPert](https://stanfordmlgroup.github.io/competitions/chexpert/) | 200k chest radiographs |  Competition and leaderboard associated |
+|[MIMIC-CXR](https://arxiv.org/abs/1901.07042) | ~400k chest x-rays, 14 labels | Data on PhysioNet |
+|[PadChest](http://bimcv.cipf.es/bimcv-projects/padchest/) | 160k chest x-rays, 174 different findings | |
+
 ## Protein-Protein Interactions
 |Name | Description | Comments |
 |:-:|---|---|
