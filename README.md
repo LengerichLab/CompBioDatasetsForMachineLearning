@@ -86,3 +86,8 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |Name | Description | Comments |
 |:-:|---|---|
 |[National Population Health Survey](http://www.statcan.gc.ca/eng/survey/household/3225)| Longitudinal Survey that collects health information via surveys every two years. | |
+
+## Protein Structure
+|Name | Description | Comments |
+|:-:|---|---|
+|[ProteinNet](https://github.com/aqlaboratory/proteinnet) | Standardized dataset for learning protein structure. Includes sequences, structures, alignments, PSSMs, and standardized train/test/valid splits. | |
