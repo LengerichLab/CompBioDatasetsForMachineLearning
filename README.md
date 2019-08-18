@@ -13,6 +13,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[HapMap](https://www.genome.gov/hapmap/)| | |
 |[23andMe](http://www.biorxiv.org/content/early/2017/04/19/127241)| 2280 Public Domain Curated Genotypes | |
 |[Mice](http://wp.cs.ucl.ac.uk/outbredmice/heterogeneous-stock-mice/) | SNPs, 2000+ samples | 4 generations. It might be possible to learn a family structure out of the data.  |
+|[Arabidopsis](https://www.arabidopsis.org/download/) | SNPs, 100+ phenotypes | |
 
 ## Promoter-Enhancer Pairs
 |Name | Description | Comments |
