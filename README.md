@@ -12,6 +12,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[METABRIC](http://www.cbioportal.org/study?id=brca_metabric#summary)| The genomic profiles (somatic mutations [targeted sequencing], copy number alterations, and gene expression) of 2509 breast cancers.| |
 |[HapMap](https://www.genome.gov/hapmap/)| | |
 |[23andMe](http://www.biorxiv.org/content/early/2017/04/19/127241)| 2280 Public Domain Curated Genotypes | |
+|[Mice](http://wp.cs.ucl.ac.uk/outbredmice/heterogeneous-stock-mice/) | SNPs, 2000+ samples | 4 generations. It might be possible to learn a family structure out of the data.  |
 
 ## Promoter-Enhancer Pairs
 |Name | Description | Comments |
@@ -53,7 +54,8 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[DDSM](http://marathon.csee.usf.edu/Mammography/Database.html)|Mammogram Database | |
 |[Kaggle Soft Tissue Sarcomas](https://www.kaggle.com/4quant/soft-tissue-sarcoma)| Preprocessed subset of the TCIA study "Soft Tissue Sarcoma" | segmentation task |
 |[Kaggle Cervical Cancer Screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)| Classify cervix type from images| |
-|[CMELYON17](https://camelyon17.grand-challenge.org/)| Pathology challenge - automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections| |
+|[CMELYON17](https://camelyon17.grand-challenge.org/) | Pathology challenge - automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections| |
+|[Grand Challenges](https://grand-challenge.org/all_challenges/) | Datasets from biomedical image analysis competitions | |
 
 ## fMRI
 |Name | Description | Comments |
