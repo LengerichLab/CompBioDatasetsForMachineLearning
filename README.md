@@ -91,3 +91,10 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |Name | Description | Comments |
 |:-:|---|---|
 |[ProteinNet](https://github.com/aqlaboratory/proteinnet) | Standardized dataset for learning protein structure. Includes sequences, structures, alignments, PSSMs, and standardized train/test/valid splits. | |
+
+## Natural Language Data
+|Name | Description | Comments |
+|:-:|---|---|
+|[BioASQ](http://www.bioasq.org/) | Abstracts of medical articles (from PubMed); ontologies of medical concepts. | Tasks: MLC, QA. |
+|[Cases](http://www.casesdatabase.com/) | Articles from medical case studies. | |
+|[UPMC Pathology](http://path.upmc.edu/cases.html) | UPMC Pathology case studies. | |
