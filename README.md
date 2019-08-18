@@ -59,6 +59,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |Name | Description | Comments |
 |:-:|---|---|
 |[ENGIMA Cerebellum](https://my.vanderbilt.edu/enigmacerebellum/)| Goal: Examine the relationships between regional atrophy and motor and cognitive dysfunction | |
+|[Seizure Prediction](https://www.kaggle.com/c/melbourne-university-seizure-prediction/data) | Goal: Classify EEG time series into pre-seizure vs. interictal (i.e., not preceding a seizure). | |
 
 ## Electronic Medical Records
 |Name | Description | Comments |
