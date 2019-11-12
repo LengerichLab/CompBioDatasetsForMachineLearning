@@ -31,6 +31,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[GTEx](http://www.gtexportal.org/home/) | Landmark study for EQTL analysis | |
 |[PharmacoGenomics DB](https://www.pharmgkb.org/)	|	| |
 |[ProteomeXChange](http://www.proteomexchange.org/)| | |
+|[BeatAML](https://www.nature.com/articles/s41586-018-0623-z)| whole-exome sequencing, RNA sequencing and analyses of ex vivo drug sensitivity | 672 tumour specimens collected from 562 patients |
 
 ## Single-cell Data
 |Name | Description | Comments |
