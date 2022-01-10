@@ -58,6 +58,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[Kaggle Cervical Cancer Screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)| Classify cervix type from images| |
 |[CMELYON17](https://camelyon17.grand-challenge.org/) | Pathology challenge - automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections| |
 |[Grand Challenges](https://grand-challenge.org/all_challenges/) | Datasets from biomedical image analysis competitions | |
+|[Breast Cancer MRI Dataset](https://sites.duke.edu/mazurowski/resources/breast-cancer-mri-dataset/) | Demographic, clinical, pathology, treatment, outcomes, and genomic data + MRI images | |
 
 ## fMRI
 |Name | Description | Comments |
