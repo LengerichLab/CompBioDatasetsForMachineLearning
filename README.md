@@ -104,3 +104,8 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[BioASQ](http://www.bioasq.org/) | Abstracts of medical articles (from PubMed); ontologies of medical concepts. | Tasks: MLC, QA. |
 |[Cases](http://www.casesdatabase.com/) | Articles from medical case studies. | |
 |[UPMC Pathology](http://path.upmc.edu/cases.html) | UPMC Pathology case studies. | |
+
+## Therapeutics
+|Name | Description | Comments |
+|:-:|---|---|
+|[Therapeutic Data Commons](https://tdcommons.ai/)| Many preprocessed datasets for therapeutic discovery, including target discovery, activity modeling, efficacy and safety, and manufacturing. | Available as Python modules. |
