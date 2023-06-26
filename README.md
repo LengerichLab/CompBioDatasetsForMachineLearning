@@ -75,6 +75,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[PhysioNet](https://www.physionet.org/physiobank/database/) |  | |
 |[Metadata Acquired from Clinical Case Reports (MACCRs)](https://www.nature.com/articles/sdata2018258) | 3,100 curated clinical case reports spanning 15 disease groups and more than 750 reports of rare diseases | |
 |[eICU](https://www.nature.com/articles/sdata2018178)| 200k EHRs | |
+|[All of Us](https://databrowser.researchallofus.org/)| >250k EHRs, some genomic data | |
 
 ## Radiographs
 |Name | Description | Comments |
