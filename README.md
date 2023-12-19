@@ -76,6 +76,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[Metadata Acquired from Clinical Case Reports (MACCRs)](https://www.nature.com/articles/sdata2018258) | 3,100 curated clinical case reports spanning 15 disease groups and more than 750 reports of rare diseases | |
 |[eICU](https://www.nature.com/articles/sdata2018178)| 200k EHRs | |
 |[All of Us](https://databrowser.researchallofus.org/)| >250k EHRs, some genomic data | |
+|[PMC-Patients](https://www.nature.com/articles/s41597-023-02814-8)| 167k patient summaries with 3.1 M patient-article relevance annotations and 293k patient-patient similarity annotations | |
 
 ## Radiographs
 |Name | Description | Comments |
