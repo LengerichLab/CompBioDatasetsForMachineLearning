@@ -37,6 +37,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |Name | Description | Comments |
 |:-:|---|---|
 |[Single-cell expression atlas](https://www.ebi.ac.uk/gxa/sc/) | | |
+|[scPerturb](https://www.nature.com/articles/s41592-023-02144-y) | single-cell perturbation-response datasets | harmonized and preprocessed across 44 original datasets |
 
 ## Regulatory Networks
 |Name | Description | Comments |
