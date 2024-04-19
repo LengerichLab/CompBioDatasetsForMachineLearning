@@ -112,3 +112,4 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |Name | Description | Comments |
 |:-:|---|---|
 |[Therapeutic Data Commons](https://tdcommons.ai/)| Many preprocessed datasets for therapeutic discovery, including target discovery, activity modeling, efficacy and safety, and manufacturing. | Available as Python modules. |
+|[Cancer Omics Drug Experiment Response Dataset](https://github.com/PNNL-CompBio/coderdata)| Molecular datasets paired with corresponding drug sensitivity data | Seeks to standardize datasets of cancer drug responses into a [standard schema](https://github.com/PNNL-CompBio/coderdata/blob/main/schema/README.md) |
